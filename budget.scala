@@ -9,6 +9,7 @@
 - Pattern matching with the months
 - May, June, July spend more money than other months
 - Date: 5/3/25
+- check for git
  */
 import scala.io.StdIn.readLine
 import scala.io.StdIn
